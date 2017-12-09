@@ -1,6 +1,6 @@
 # qaray\_blender\_exporter
 
-A scene export plugin for Blender. Originally developed by Will Ushwer for his [tray\_rust](https://github.com/Twinklebear/tray_rust) renderer.
+A scene export plugin for Blender. Originally developed by Will Usher for his [tray\_rust](https://github.com/Twinklebear/tray_rust) renderer.
 
 ## Currently Supported Features
 
